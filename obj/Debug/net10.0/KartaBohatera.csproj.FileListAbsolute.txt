@@ -1,0 +1,14 @@
+Z:\KartaBohatera\bin\Debug\net10.0\KartaBohatera.exe
+Z:\KartaBohatera\bin\Debug\net10.0\KartaBohatera.deps.json
+Z:\KartaBohatera\bin\Debug\net10.0\KartaBohatera.runtimeconfig.json
+Z:\KartaBohatera\bin\Debug\net10.0\KartaBohatera.dll
+Z:\KartaBohatera\bin\Debug\net10.0\KartaBohatera.pdb
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.GeneratedMSBuildEditorConfig.editorconfig
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.AssemblyInfoInputs.cache
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.AssemblyInfo.cs
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.csproj.CoreCompileInputs.cache
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.dll
+Z:\KartaBohatera\obj\Debug\net10.0\refint\KartaBohatera.dll
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.pdb
+Z:\KartaBohatera\obj\Debug\net10.0\KartaBohatera.genruntimeconfig.cache
+Z:\KartaBohatera\obj\Debug\net10.0\ref\KartaBohatera.dll
